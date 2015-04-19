@@ -50,7 +50,6 @@ Systems and Mathematics.** [Some school projects](projects.html#school).
 
 ### Languages
 
-I read books and attend to courses in English.
 {:.margin.note}
 
 **한국어** --- Mother tongue<br />
