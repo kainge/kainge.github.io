@@ -1,16 +1,3 @@
----
-title: Résumé
-layout: default
-lang: en
-versions:
-  en: resume.html
-  fr: cv.html
-current: resume
----
-
-![Face](/public/tete.svg)
-{:.margin}
-
 {{page.title}}
 --------------
 
