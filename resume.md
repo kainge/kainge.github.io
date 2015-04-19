@@ -9,10 +9,7 @@
 2012년 10월 - 현재
 {:.margin.time}
 
-**Final project at [the CAD laboratory](http://www.cad.polito.it/) of the
-Politecnico di Torino: improve the [MicroGP](http://ugp3.sourceforge.net/) evolutionary computation
-optimizer.** Research methodology, performance evaluation, software quality,
-object-oriented design in C++, embedding of the Lua language. 
+**삼다자동차운전전문학원 기획실장으로 근무중입니다.**
 
 Summer 2013
 {:.margin.time}
@@ -23,29 +20,6 @@ design, rich web front-end using Ember.js, agile project management, unit testin
 {:#sogilis}
 
 
-### Education
-
-2013-2014
-{:.margin.time}
-
-**Double degree at [Politecnico di Torino](http://www.polito.it) in computer engineering.**
-
-2011-2014
-{:.margin.time}
-
-**Engineering degree at [Grenoble INP --
-Ensimag](http://ensimag.grenoble-inp.fr) in Computer Science, Information
-Systems and Mathematics.** [Some school projects](projects.html#school).
-
-2009-2011
-{:.margin.time}
-
-"Classes préparatoires"[^prepa] at Lycée Carnot in Dijon.
-
-[^prepa]:
-    Intensive study of both mathematics and physics in order to prepare for
-    entrance examinations to the French Grandes Écoles. Usually lasts two or
-    three years just after the end of high school.
 
 
 ### Languages
