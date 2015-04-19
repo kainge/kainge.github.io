@@ -68,7 +68,7 @@ Systems and Mathematics.** [Some school projects](projects.html#school).
 
 ### Interests
 
-추리 소설 읽기, 영화 보기, 게임 분석 및 플레잉, 수집하기\\
+추리 소설 읽기, 영화 보기, 게임 분석 및 플레잉, 수집하기--
 고등학교 다닐 당시에 학교 교악대에서 튜바를 불었던 적이 있습니다.
 
 [fantasque]: {% post_url projects/2013-11-18-fantasquesansmono-font %}
