@@ -60,25 +60,12 @@ Systems and Mathematics.** [Some school projects](projects.html#school).
 
 ### Programming languages, frameworks and tools
 
-* <a href="{% post_url projects/2013-01-15-compiler-for-java-subset %}" title="Example project: a compiler">Ada</a>
-* <a href="{% post_url projects/2012-12-10-various-c-projects %}" title="Example project: a shell">C</a>
-* <a href="{% post_url projects/2013-06-12-AgileTouch-distributed-scrum %}" title="Example project: augmented agile backlog">C++</a> (Qt, OpenCV)
-* Java (J2EE)
-* SQL
-* Shell and Makefiles
-* <a href="#sogilis" title="Example project: accounting application">Javascript</a> (Ember, EPF, Mocha, Chai)
-* xHTML/CSS
-* <a href="{% post_url projects/2013-06-14-robair %}" title="Example project: a robot">Python</a>
-* Ruby (on Rails)
-* Scilab
+* Java 
+* C
+* HTML
 * PHP
-* R
-* Prolog
-* CaML
-{:.inline-list}
 
 
-I am a Linux and open-source enthusiast.
 {:.margin.note}
 
 **Development tools: `vim`, `git`, Eclipse.**
