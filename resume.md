@@ -1,7 +1,7 @@
-{{page.title}}
+{{강무송 자기소개서}}
 --------------
 
-**안녕하세요 저는 컴퓨터교육과 강무송이라고 합니다.**\\
+**안녕하세요 저는 제주대학교 컴퓨터교육과 4학년 강무송이라고 합니다.**\\
 
 ### Employment
 {:.clearer}
@@ -53,10 +53,9 @@ Systems and Mathematics.** [Some school projects](projects.html#school).
 I read books and attend to courses in English.
 {:.margin.note}
 
-**French** --- Mother tongue<br />
-**English** --- Written and spoken as a professional skill<br />
-Italian --- Written and spoken for everyday life (should improve soon).<br/>
-German --- Basics
+**한국어** --- Mother tongue<br />
+**영어** --- Written and spoken as a professional skill<br />
+일본어 --- Written and spoken for everyday life (should improve soon).<br/>
 
 
 
