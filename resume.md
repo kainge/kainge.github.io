@@ -1,9 +1,8 @@
+{{page.title}}
+--------------
+
 **Hi, I am a computer science student.**\\
-I love to design useful and beautiful software. <a 
-
-href="mailto:&#106;&#097;&#110;&#121;&#046;&#098;&#101;&#108;&#108;&#117;&#122;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#102;&#114;">Contact 
-
-me</a>.
+I love to design useful and beautiful software. <a href="mailto:&#106;&#097;&#110;&#121;&#046;&#098;&#101;&#108;&#108;&#117;&#122;&#064;&#104;&#111;&#116;&#109;&#097;&#105;&#108;&#046;&#102;&#114;">Contact me</a>.
 
 ### Employment
 {:.clearer}
